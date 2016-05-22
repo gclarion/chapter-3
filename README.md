@@ -20,7 +20,7 @@ Book problems are due at the beginning of the class period before the Chapter 3 
 
 ##PracticeIt! Assignments
 
-Complete the following Chapter 1 [PracticeIt!](http://practiceit.cs.washington.edu/practiceit/index.jsp) assignments.  For each problem, *handwrite* the solution and attach with a printed copy of your “My Problems” page sorted with *newest on top*.
+Complete the following [PracticeIt!](http://practiceit.cs.washington.edu/practiceit/index.jsp) assignments.  For each problem, *handwrite* the solution and attach with a printed copy of your “My Problems” page sorted with *newest on top*.
  
 ###Chapter 2: Primitive Data and Definite Loops
  
